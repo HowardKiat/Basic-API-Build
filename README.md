@@ -9,5 +9,7 @@ http://localhost:8080/tshirt
 #For fetching if logo exists or not with ID displayed:
 http://localhost:8080/tshirt/123 
 
-@APPS TO CONSIDER:
+@APPS/WEBSITE TO CONSIDER:
 INSOMNIA - to fetch the request of the server is up or not
+
+SWAGGERHUB - shows documented api processes with pre-existing block example to be used
