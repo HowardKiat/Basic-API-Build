@@ -1,0 +1,15 @@
+{
+  "name": "basic-api-build",
+  "version": "1.0.0",
+  "description": "Building a Basic API to start with the API experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
